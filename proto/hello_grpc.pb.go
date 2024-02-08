@@ -4,7 +4,7 @@
 // - protoc             v4.25.2
 // source: hello.proto
 
-package __
+package hello
 
 import (
 	context "context"

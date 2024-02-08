@@ -5,8 +5,8 @@ import (
 	"log"
 	"net"
 
+	pb "github.com/harishteens/protomesh/proto"
 	"google.golang.org/grpc"
-	pb "google.golang.org/grpc/examples/route_guide2/hello"
 )
 
 type helloServer struct {
